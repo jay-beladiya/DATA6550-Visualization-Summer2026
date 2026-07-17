@@ -1,4 +1,4 @@
-# DATA6550-Visualization-Summer2026
+# Titanic Dataset: Visualization Ethics and Communication
 
 ## DATA 6550 Summer 2026
 
