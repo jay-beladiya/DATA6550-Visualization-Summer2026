@@ -91,6 +91,8 @@ DATA6550-Visualization/
 
 Project discussions, planning, and progress updates are documented in the **Collaboration** folder. Individual coding contributions are maintained in separate folders under the **Code** directory to ensure clear version tracking.
 
+**Google Document Link:** https://docs.google.com/document/d/1m09jW3E4OCRSKDOQh080Hu6CEUXhFY7NkOfhxAiWJ5g/edit?tab=t.0
+
 ---
 
 ## Course
